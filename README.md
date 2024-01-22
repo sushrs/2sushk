@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2sushk 
+- 👋 Hi, I’m Sushila
 - 👀 I’m interested in  UI Development.
 - 🌱 I’m currently learning HTML, CSS, Javascript , React and GitHub.
 
